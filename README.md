@@ -21,4 +21,4 @@
 
 Обратная связь Мы всегда рады услышать ваше мнение! Если у вас возникли вопросы, предложения или проблемы с игрой, напишите нам на почту: evilgen21@gmail.com. Мы постараемся помочь вам в кратчайшие сроки! 
 
-QuickRate — умный конвертер валют с виджетами для iPhone. Отслеживайте курсы валют, крипты и товаров в реальном времени прямо на домашнем экране. Скачать NEON FLOW - ONE LINE PUZZLE сейчас <a href="https://apps.apple.com/ru/developer/yauheni-sabina/id1762795289">QuickRate</a>
+Скачать NEON FLOW - ONE LINE PUZZLE сейчас <a href="https://apps.apple.com/ru/developer/yauheni-sabina/id1762795289">NEON FLOW</a>
