@@ -1,7 +1,7 @@
 # NEON FLOW - ONE LINE PUZZLE
 Мощное приложение для отслеживания и конвертации валют, криптовалют и товаров в реальном времени. Идеальный инструмент для путешественников, инвесторов и всех, кто работает с международными финансами.
 
-<img src="https://github.com/evilgen21/neon_flow/blob/main/1.png" width="220" height="420"> <img src="https://github.com/evilgen21/neon_flow/blob/main/2.png" width="220" height="420"> <img src="https://github.com/evilgen21/neon_flow/blob/main/3.png" width="220" height="420"> <img src="https://github.com/evilgen21/neon_flow/blob/main/4.png" width="220" height="420">
+<img src="https://github.com/evilgen21/neon_flow/blob/main/1.png" width="194" height="420">> <img src="https://github.com/evilgen21/neon_flow/blob/main/2.png" width="194" height="420">> <img src="https://github.com/evilgen21/neon_flow/blob/main/3.png" width="194" height="420">> <img src="https://github.com/evilgen21/neon_flow/blob/main/4.png" width="194" height="420">>
 
 🚀 Ключевые особенности:
 
